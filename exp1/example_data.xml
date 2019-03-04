@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<案例>
+	<动漫 id="1">
+		<图片>
+			<缩略图 大小="100">https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/Tokyo_Ghoul_volume_1_cover.jpg/240px-Tokyo_Ghoul_volume_1_cover.jpg</缩略图>
+			<封面图 大小="500">https://upload.wikimedia.org/wikipedia/zh/thumb/e/e5/Tokyo_Ghoul_volume_1_cover.jpg/240px-Tokyo_Ghoul_volume_1_cover.jpg</封面图>
+		</图片>
+		<名字>东京喰种</名字>
+		<价格估算>
+			<名称>
+			哔哩哔哩
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="2">
+		<图片>
+			<缩略图 大小="100">https://v.qq.com/detail/s/sdp001orihx78a8.html</缩略图>
+			<封面图 大小="500">http://www.iqiyi.com/v_19rqp6xhn4.html</封面图>
+		</图片>
+		<名字>火影忍者博人传</名字>
+		<价格估算>
+			<名称>
+			腾讯视频
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="3">
+		<图片>
+			<缩略图 大小="100">https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/To_aru_majutsu_no_index_logo.svg/220px-To_aru_majutsu_no_index_logo.svg.png</缩略图>
+			<封面图 大小="500">https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/To_aru_majutsu_no_index_logo.svg/220px-To_aru_majutsu_no_index_logo.svg.png</封面图>
+		</图片>
+		<名字>魔法的禁书目录</名字>
+		<价格估算>
+			<名称>
+			哔哩哔哩
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="4">
+		<图片>
+			<缩略图 大小="100">https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/Gba_gyakutensaiban3-1-.jpg/220px-Gba_gyakutensaiban3-1-.jpg</缩略图>
+			<封面图 大小="500">https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/Gba_gyakutensaiban3-1-.jpg/220px-Gba_gyakutensaiban3-1-.jpg</封面图>
+		</图片>
+		<名字>逆转裁判</名字>
+		<价格估算>
+			<名称>
+			哔哩哔哩
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="5">
+		<图片>
+			<缩略图 大小="100">https://zh.wikipedia.org/wiki/File:Saiki_Kusuo_no_Sainan.jpg</缩略图>
+			<封面图 大小="500">https://zh.wikipedia.org/wiki/File:Saiki_Kusuo_no_Sainan.jpg</封面图>
+		</图片>
+		<名字>齐木楠雄的灾难</名字>
+		<价格估算>
+			<名称>
+			哔哩哔哩
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="6">
+		<图片>
+			<缩略图 大小="100">https://ws3.sinaimg.cn/large/005BYqpgly1g0dxwse5etj307i0am3z7.jpg</缩略图>
+			<封面图 大小="500">https://ws3.sinaimg.cn/large/005BYqpgly1g0dxwse5etj307i0am3z7.jpg</封面图>
+		</图片>
+		<名字>关于我转生成史莱姆这件事</名字>
+		<价格估算>
+			<名称>
+			爱奇艺
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="7">
+		<图片>
+			<缩略图 大小="100">http://p9.123.sogoucdn.com/imgu/2016/05/20160530140625_830.jpg</缩略图>
+			<封面图 大小="500">http://p9.123.sogoucdn.com/imgu/2016/05/20160530140625_830.jpg</封面图>
+		</图片>
+		<名字>多罗罗</名字>
+		<价格估算>
+			<名称>
+			爱奇艺
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="8">
+		<图片>
+			<缩略图 大小="100">https://ws3.sinaimg.cn/large/005BYqpgly1fziux8ru70j307i0alaak.jpg</缩略图>
+			<封面图 大小="500">https://ws3.sinaimg.cn/large/005BYqpgly1fziux8ru70j307i0alaak.jpg</封面图>
+		</图片>
+		<名字>名侦探柯南</名字>
+		<价格估算>
+			<名称>
+			爱奇艺
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="9">
+		<图片>
+			<缩略图 大小="100">http://img.kingsnug.cn/Uploads/vod/2019-02-21/5c6d8a4a78da8.jpg</缩略图>
+			<封面图 大小="500">http://img.kingsnug.cn/Uploads/vod/2019-02-21/5c6d8a4a78da8.jpg</封面图>
+		</图片>
+		<名字>灵能百分百</名字>
+		<价格估算>
+			<名称>
+			爱奇艺
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="10">
+		<图片>
+			<缩略图 大小="100">http://img.kingsnug.cn/Uploads/vod/2019-02-23/5c715345dbf34.jpg</缩略图>
+			<封面图 大小="500">http://img.kingsnug.cn/Uploads/vod/2019-02-23/5c715345dbf34.jpg</封面图>
+		</图片>
+		<名字>我老婆是学生会长</名字>
+		<价格估算>
+			<名称>
+			爱奇艺
+			<会员价格>
+				￥15
+			</会员价格>
+			</名称>
+		</价格估算>
+	</动漫>
+	<动漫 id="11">
+    <图片>
+        <缩略图 大小='100'>https://v.youku.com/v_nextstage/id_cc003400962411de83b1.html?spm=a2ha1.12523958.m_4392_c_12696.d_03
+        </缩略图>
+        <封面图 大小='500'>https://v.youku.com/v_nextstage/id_cc003400962411de83b1.html?spm=a2ha1.12523958.m_4390_c_11013.4
+        </封面图>
+    </图片>
+    <名字>名侦探柯南</名字>
+    <价格估算>
+        <名称>
+            优酷
+            <会员价格>
+                20 
+            </会员价格>
+        </名称>   
+    </价格估算>
+</动漫>
+<动漫 id="12">
+    <图片>
+        <缩略图 大小='100'>https://www.bilibili.com/bangumi/play/ss3450/?from=search&amp;seid=2506398333872534073
+        </缩略图>
+        <封面图 大小='500'>https://www.i0.hdslb.com/bfs/bangumi/14ba6643f22405e2777cca992002cc6411601334.jpg@450w_600h.jpg
+        </封面图>
+    </图片>
+    <名字>在下坂本，有何贵干</名字>
+    <价格估算>
+        <名称>
+            Bilibili
+            <会员价格>
+                15 
+            </会员价格>
+        </名称>   
+    </价格估算>
+</动漫>
+<动漫 id="13">
+    <图片>
+        <缩略图 大小='100'>//i0.hdslb.com/bfs/bangumi/264a2252fc7ab3503d5e7b879b0ba64cf7f80831.jpg@450w_600h.jpg
+        </缩略图>
+        <封面图 大小='500'>//i0.hdslb.com/bfs/bangumi/264a2252fc7ab3503d5e7b879b0ba64cf7f80831.jpg@450w_600h.jpg
+        </封面图>
+    </图片>
+    <名字>博人传</名字>
+    <价格估算>
+        <名称>
+            Bilibili
+            <会员价格>
+                15 
+            </会员价格>
+        </名称>   
+    </价格估算>
+</动漫>
+<动漫 id="14">
+    <图片>
+        <缩略图 大小='100'>//i0.hdslb.com/bfs/bangumi/0953fe3ba9d010686ec1500a72d7507aa60b51da.jpg@1260w_600h.jpg
+        </缩略图>
+        <封面图 大小='500'>//i0.hdslb.com/bfs/bangumi/0953fe3ba9d010686ec1500a72d7507aa60b51da.jpg@1260w_600h.jpg
+        </封面图>
+    </图片>
+    <名字>刀剑神域</名字>
+    <价格估算>
+        <名称>
+            Bilibili
+            <会员价格>
+                15 
+            </会员价格>
+        </名称>   
+    </价格估算>
+</动漫>
+<动漫 id="15">
+    <图片>
+        <缩略图 大小='100'>//i0.hdslb.com/bfs/bangumi/8f29b00365ecea0a46ca8224ad35b5a17b31ab1b.jpg@1260w_600h.jpg
+        </缩略图>
+        <封面图 大小='500'>//i0.hdslb.com/bfs/bangumi/8f29b00365ecea0a46ca8224ad35b5a17b31ab1b.jpg@1260w_600h.jpg
+        </封面图>
+    </图片>
+    <名字>JOJO黄金之风</名字>
+    <价格估算>
+        <名称>
+            Bilibili
+            <会员价格>
+                15 
+            </会员价格>
+        </名称>   
+    </价格估算>
+</动漫>
+</案例>
