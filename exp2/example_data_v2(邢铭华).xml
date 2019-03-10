@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE animeList SYSTEM "D:\Documents\xml\ANIME_DTD_v1.dtd">
+<animeList>
+	<anime id="JOJO5" episodeNum="21" isfinished="false">
+		<name language="Chinese">JOJO的奇妙冒险 黄金之风</name>
+		<images>
+			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<preview>https://here_pictures_server_path</preview>
+		</images>
+		<seasons currentSeason="5">
+		</seasons>
+		<priceList>
+			<price currency="Yuan" platform="bilibili">15/month</price>
+		</priceList>
+	</anime>
+</animeList>
