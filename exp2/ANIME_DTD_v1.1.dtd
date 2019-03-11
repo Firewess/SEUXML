@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT animeList (anime*)>
+<!ELEMENT anime (name+, images, seasons, type, description, episode_list, price_list)>
+<!ATTLIST anime
+			id				ID		#REQUIRED
+			episode_num		CDATA	#REQUIRED
+			update_cycle	(daily | weekly | monthly | irregular) "weekly"
+			isfinished		(true | false)	#REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name language CDATA #IMPLIED>
+<!ELEMENT images (thumbnail, preview+)>
+<!ELEMENT thumbnail (#PCDATA)>
+<!ATTLIST thumbnail size CDATA #IMPLIED>
+<!ELEMENT preview (#PCDATA)>
+<!ATTLIST preview size CDATA #IMPLIED>
+<!ELEMENT seasons (season*)>
+<!ATTLIST seasons current_season CDATA "1">
+<!ELEMENT season (#PCDATA)>
+<!ATTLIST season seasonId IDREF #REQUIRED>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT episode_list (episode+)>
+<!ATTLIST episode_list current_episode CDATA #REQUIRED>
+<!ELEMENT episode (#PCDATA)>
+<!ATTLIST episode href CDATA #IMPLIED>
+<!ELEMENT price_list (platform+)>
+<!ELEMENT platform (price+)>
+<!ATTLIST platform platform_name (bilibili | tecent | iqiyi | unknown) "unknown">
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price
+			currency		CDATA 	"CNY"
+			period			(monthly | quarterly | annually)	#REQUIRED
+			estimated_cost	CDATA	#REQUIRED>
