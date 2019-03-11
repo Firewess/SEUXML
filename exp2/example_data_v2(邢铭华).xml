@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE animeList SYSTEM "C:\Users\cc199\Documents\courses\xml\ANIME_DTD_v1.dtd">
+<!DOCTYPE animeList SYSTEM ".\ANIME_DTD_v1.dtd">
 <animeList>
 	<anime id="JOJO5" episode_num="21" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">JOJO的奇妙冒险 黄金之风</name>
