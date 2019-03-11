@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE animeList SYSTEM ".\ANIME_DTD_v1.dtd">
+<!DOCTYPE animeList SYSTEM "C:\Users\cc199\Documents\courses\xml\ANIME_DTD_v1.dtd">
 <animeList>
 	<anime id="JOJO5" episode_num="21" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">JOJO的奇妙冒险 黄金之风</name>
@@ -22,6 +22,310 @@
 					68
 				</price>
 				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="TJRSM1" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">同居人是猫</name>
+		<name language="Japanese">同居人はひざ、時々、頭のうえ。</name>
+		<name language="English">My Roommate is a Cat</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/555450aedbc8c3744bd381a0104fe8870837233b.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546936456.webp</preview>
+		</images>
+		<seasons/>
+		<type>喜剧</type>
+		<description>超治愈漫画「同居人有时在腿上，有时在头上」宣布动画化。《同居人时而在腿上、时而跑到脑袋上》是漫画作者みなつき、二ツ家あす连载的少年漫画 。描述的是推理小说家朏素晴和一只小猫的故事。确定动画版在2019年播出。</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259806">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259807">2</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259808">3</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259809">4</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259810">5</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259811">6</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259812">7</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259813">8</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259814">9</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="MOMXT1" episode_num="36" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">魔偶马戏团</name>
+		<name language="Japanese">からくりサーカス</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/24fb6d80e5f8cadaddde930baf45cad924724047.png@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536674260.webp</preview>
+		</images>
+		<seasons/>
+		<type>奇幻</type>
+		<description>“3人的相遇，驱动命运的齿轮——” 
+　　小学5年级的才贺胜，在父亲因事故去世后继承了莫大的遗产，生命也因此受到了威胁。此时，青年·加藤鸣海偶然与胜相遇，并决定向他伸出援手。 
+　　但追杀胜的并非人类，而是具备高超战斗能力的人偶使们。 
+　　陷入绝境的两人，被突然现身、操纵着悬丝傀儡的银发少女白银所救。 
+　　就这样，在日本相识的这3人开始被卷入多舛的命运齿轮当中——</description>
+		<episode_list current_episode="20">
+			<episode href="https://www.bilibili.com/bangumi/play/ep250745">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep250765">20</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="60">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="BANG2" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="English">BanG Dream!</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/18f496e6d4ced514e02e9fa735d5fdcc5fb2500e.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522012214.webp</preview>
+		</images>
+		<seasons current_season="2"/>
+		<type>音乐</type>
+		<description>升上高中二年级的香澄等Poppin'Party成员，不论是在学生会还是在家帮忙，不论是补习还是打工都十分繁忙。五人在一起的时间逐渐减少，在作为据点的仓库也难以集合。在这样的她们身边，出现了一位少女——。全新的邂逅。不变的羁绊。Afterglow、Pastel＊Palettes、Roselia、Hello、Happy World！也陆续登场，个性丰富的乐团成员们，在闪耀而令人心动的舞台上引人陶醉！“还想要和大家一起举办Live”，音乐梦想如今开始奔跑！</description>
+		<episode_list current_episode="10">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259794">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259803">10</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="YDDMHD1" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">约定的梦幻岛</name>
+		<name language="Japanese">約束のネバーランド</name>
+		<name language="English">The Promised Neverland</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/e5e5fe6f272d71464c0043200731d07bed244739.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541517742.webp</preview>
+		</images>
+		<seasons/>
+		<type>悬疑</type>
+		<description>如同母亲般尊敬着的她，并非亲人。相依为命的他们，并非兄弟。恩典农场之家，是没有父母的孩子们居住的地方。即使没有血缘关系，这里也是和妈妈以及38位兄弟姐妹一同度过幸福生活的，无可替代的家。但，他们的日常在某一天，突然宣告结束……</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259758">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259766">9</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="WDFDXN1" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">五等分的新娘</name>
+		<name language="Japanese">五等分の花嫁</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/9db134510cfae406afd8a000ad154b5c30eea26c.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2543829940.webp</preview>
+		</images>
+		<seasons/>
+		<type>爱情</type>
+		<description>过着贫穷生活的高中二年级生上杉风太郎，听说有一份条件不错的家庭教师兼职。不过学生竟然是同级生，而且还是五胞胎！！她们全员都是美少女，却是“濒临留级”“讨厌学习”的问题儿童！最初的课题是赢得姐妹们的信赖……！？每天都吵吵闹闹的中野家五胞胎献上的可爱度500%的五人五色恋爱喜剧开演！！</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ss26283">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259091">9</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="GLBJ1" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">格林笔记</name>
+		<name language="Japanese">グリムノーツ</name>
+		<name language="English">Grimms Notes</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/a8d190315592d2d84e45f6205361bb983fc67566.png@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2543704131.webp</preview>
+		</images>
+		<seasons/>
+		<type>剧情</type>
+		<description>故事讲述了人们从出生开始，就被付与了一本书。从生到死按照“命运之书”记载的脚本生存下去的宿命。在此之中，持有空白脚本的“空白之书”出生的艾克斯，与同样拥有“空白之书”的同伴们相遇，踏上了寻找自己使命的旅程。这是一部被不断阅读过的童话故事。</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259890">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259898">9</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="BJBPBX1" episode_num="18" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">不吉波普不笑</name>
+		<name language="Japanese">ブギーポップは笑わない</name>
+		<name language="English">Boogiepop and Others</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/76ea79cab22672016d6e5fa094f01935d20ed802.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2543082723.webp</preview>
+		</images>
+		<seasons/>
+		<type>悬疑</type>
+		<description>少女宫下藤花，当她察觉到“世界之敌”的时候便会诞生出另一个名为“不吉波普”的人格。围绕着各种奇怪的事件，少年与少女们的故事慢慢展开了——</description>
+		<episode_list current_episode="15">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259635">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259649">15</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="YHDZZ3" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">约会大作战</name>
+		<name language="Japanese">デート・ア・ライブ</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/bfd273826952c6aae19ce462666c7f424c50930a.jpg@144w_144h.webp</thumbnail>
+			<preview>htthttps://img1.doubanio.com/view/photo/s_ratio_poster/public/p2547031799.webp</preview>
+		</images>
+		<seasons current_season="3"/>
+		<type>动作</type>
+		<description>人类遭逢了名为“空间震”的新型灾害。震撼空间、将一切破坏殆尽的这一灾厄，是由于精灵自临界显现而发生的。为了阻止空间震，使人类免遭灾厄而必须采取的措施，是使用武力歼灭精灵，或者是——“与其约会，使其娇羞”！ 
+　　让精灵娇羞，再通过“亲吻”即可封印其力量——拥有这种能力的高中生·五河士道。为了人类的和平，也为了拯救精灵们——士道在和她们的“约会”中来回奔走。对士道敞开心扉的精灵·十香、四糸乃、琴里、耶俱矢、夕弦、美九，为歼灭精灵而行动的AST，企图利用精灵的DEM，尝试与精灵对话的拉塔托斯克，以及，需要令其娇羞的新精灵——将这一切全部卷入，新的战争约会开始了——
+</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259782">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259790">9</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="MFJSML" episode_num="26" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">魔法禁书目录</name>
+		<name language="Japanese">とある魔術の禁書目録い</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/91b29251445f9b808e9c30f34019d3ba4f128d6d.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2524375267.webp</preview>
+		</images>
+		<seasons current_season="3"/>
+		<type>奇幻</type>
+		<description>位于东京西部的巨大“学园都市”。在总人口达230万人，其中约8成是学生的这座都市中，实施着超能力开发的特殊课程，学生们的能力被给予从“无能力Level 0”到“超能力Level 5”的六阶段评价。 
+　　高中生上条当麻，也是住在学园都市的学生之一。他由于隐藏在右手中的力量——只要是异能之力，就连神的加护都能消除的“幻想杀手Imagine Breaker”，而被评价为名落孙山的“无能力”，过着充满不幸的人生。 
+　　而上条的学生生活，由于暑假开始时从天而降的纯白修女而发生了巨大的变化。自从与逃离“魔法”世界的她——“禁书目录茵蒂克丝”相遇开始，上条就被卷入了各种各样的事件中。统率学园都市的“科学”方、与茵蒂克丝关联的“魔法”方，在惊险地解决双方事件的过程中，他的人际关系也逐步扩展。之后，魔法一方的十字教最大宗派罗马正教，终于注意到上条的存在……。 
+　　如同呼应魔法方一般，科学方的学园都市也有所动作。但也有与逐渐开始对立的世界动向抗争的人不断出现。那些通过与上条有所关联，而使命运大为改变的“英雄”们。 
+　　他们挺身而出与世界对峙。如同上条当麻做过的那样。 
+　　科学与魔法第三次交织之时，故事将大幅推进！！</description>
+		<episode_list current_episode="22">
+			<episode href="https://www.bilibili.com/bangumi/play/ep250434">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep250455">22</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="HZWXP" episode_num="24" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">火之丸相扑</name>
+		<name language="Japanese">火ノ丸相撲</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/8d95f2e82b200ad69e42ed29d420e0c3d00af2a0.jpg@144w_144h.webp</thumbnail>
+			<preview>https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529138988.webp</preview>
+		</images>
+		<seasons/>
+		<type>运动</type>
+		<description>　　发气扬扬！赌上梦想的男子汉们的激斗开始了—— 
+　　出现在弱小的大太刀高中相扑部的新生，“小小”少年·潮火之丸！ 
+　　这名新部员的体格与以“巨大”“沉重”为绝对的竞技完全不合，但却拥有非同寻常的过去！？ 
+　　火之丸与弱小相扑部攻进的顶点之路——超白热高中相扑，开幕！！</description>
+		<episode_list current_episode="21">
+			<episode href="https://www.bilibili.com/bangumi/play/ep250784">1</episode>
+			<episode href="https://www.bilibili.com/bangumi/play/ep259005">21</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
 					148
 				</price>
 			</platform>
