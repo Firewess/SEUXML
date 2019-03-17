@@ -334,7 +334,7 @@
 			</platform>
 		</price_list>
 	</anime>
-	<anime id="JOJO5" episode_num="unkown" update_cycle="weekly" isfinished="false">
+	<anime id="JOJO5" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">JOJO的奇妙冒险 黄金之风</name>
 		<images>
 			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
@@ -360,7 +360,7 @@
 			</platform>
 		</price_list>
 	</anime>
-	<anime id="nuannuanriji" episode_num="unkown" update_cycle="weekly" isfinished="false">
+	<anime id="nuannuanriji" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">暖暖日记 3rd</name>
 		<images>
 			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
@@ -412,7 +412,7 @@
 			</platform>
 		</price_list>
 	</anime>
-	<anime id="buyukuaideguaiwuanan" episode_num="unkown" update_cycle="weekly" isfinished="false">
+	<anime id="buyukuaideguaiwuanan" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">不愉快的怪物庵</name>
 		<images>
 			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
@@ -438,7 +438,7 @@
 			</platform>
 		</price_list>
 	</anime>
-	<anime id="huiyejixiangrangwogaobai" episode_num="unkown" update_cycle="weekly" isfinished="false">
+	<anime id="huiyejixiangrangwogaobai" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">辉夜大小姐想让我告白~天才们的恋爱头脑战~</name>
 		<images>
 			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
