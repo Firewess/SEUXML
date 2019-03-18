@@ -1,0 +1,32 @@
+* {
+    display: block;
+}
+
+animeList
+{
+background-color: #ffffff;
+width: 100%;
+}
+anime
+{
+display: block;
+margin-bottom: 30pt;
+margin-left: 0;
+}
+
+name
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+images
+{
+    font-style:oblique;
+    color: blue;
+}
+price_list
+{
+color: #FF0000;
+font-size: 20pt;
+}

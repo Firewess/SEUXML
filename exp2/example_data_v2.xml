@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE animeList SYSTEM ".\ANIME_DTD_v1.1.dtd">
+<?xml-stylesheet type="text/css" href="my-style.css"?>
 <animeList>
 	<!-- 邢铭华10条 -->
 	<anime id="TJRSM1" episode_num="12" update_cycle="weekly" isfinished="false">
