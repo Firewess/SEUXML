@@ -307,16 +307,148 @@
 		</price_list>
 	</anime>
 	
-	<!-- 奉捷10条 -->
-	<anime id="JB-PROJECT" episode_num="12" update_cycle="weekly" isfinished="false">
-		<name language="Chinese">JB-PROJECT～绝顶＊Emotion～</name>
+	<!-- 奉捷新增5条 -->
+	<anime id="shaoniangexing" episode_num="unkown" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">少年歌行</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/6cd0e3278712e04aef36723e44a805c432bc5c61.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/6cd0e3278712e04aef36723e44a805c432bc5c61.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>武侠</type>
+		<description>寒水寺忘忧大师坐化后，一口神秘的黄金棺材入世，掀起江湖纷争。各方势力针锋相对，雷无桀、萧瑟、唐莲、司空千落、天女蕊等相继卷入争端，一场围绕黄金棺材的故事即将上演。策马江湖梦，倚剑踏歌行。黄金棺材的秘密，逐渐浮现……</description>
+		<episode_list current_episode="16">
+			<episode href="https://www.bilibili.com/bangumi/play/ep259013">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="90">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="buliangren3" episode_num="unkown" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">画江湖之不良人 第三季</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/8f19c704a6516bab4716931db10621c1b6c6e4bf.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/8f19c704a6516bab4716931db10621c1b6c6e4bf.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="3"/>
+		<type>武侠</type>
+		<description>《画江湖之不良人》第三季侠影归来，再现唐末乱世风云！王者弈天下 大唐生死局！乾陵被毁、龙泉宝藏下落不明，前朝皇子李星云欲归隐山林，不良帅决心挟天子以令诸侯，号召江湖各大势力复辟大唐，王道与霸道将在这片权力漩涡中进行终极对垒！贵妃墓、长安城诉说着昔日盛唐的锦绣江山；苗疆巫蛊、湘西赶尸揭开了江湖中不为人知的明争暗斗......</description>
+		<episode_list current_episode="21">
+			<episode href="https://www.bilibili.com/bangumi/play/ep253576">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="90">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="aotushijie3" episode_num="unkown" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">凹凸世界 第三季</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/8f19c704a6516bab4716931db10621c1b6c6e4bf.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/8f19c704a6516bab4716931db10621c1b6c6e4bf.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="3"/>
+		<type>热血</type>
+		<description>凹凸世界的创世神是一位很肆意随性的神明，他创造了凹凸世界的无数星球和人民，又随心所欲地统治着他们。同时他还设立了七神使，让他们代行神旨。但是，创世神也不是完全不给他的子民机会——只要在“凹凸大赛”中获得最终的胜利，那么就能得到一切，并赐予你与“七神使”一样代神统治世界的权力。然而，以上这些，都只是虚伪的表象。这场比赛注定没有胜利者。直到，我们的主角——金，出现在了赛场上。</description>
+		<episode_list current_episode="9">
+			<episode href="https://www.bilibili.com/bangumi/play/ep253576">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="90">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="shanheshejitu" episode_num="unkown" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">山河社稷图</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/57dc8fdf8373f8c1facfc2911d50be1cfc6da18a.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/57dc8fdf8373f8c1facfc2911d50be1cfc6da18a.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>玄幻</type>
+		<description>搞了半天，原来我们人类的世界其实不是真实世界，而是古代神祉女娲用法器『山河社稷图』创造出来的幻想世界。于是，在我们所身处的虚拟空间之外，还有一个充满仙术的真实世界。</description>
+		<episode_list current_episode="20">
+			<episode href="https://www.bilibili.com/bangumi/play/ep253578">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="90">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="zhanshouzhiren" episode_num="unkown" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">斩兽之刃</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/7751442848f88978538c301a1930bdedf6bc0ea6.png@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/7751442848f88978538c301a1930bdedf6bc0ea6.png@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>动作</type>
+		<description>为了拯救危在旦夕的永冬王国，一支名为“斩兽之刃”的复国小队带着复仇之心，潜入了致使永冬濒临绝境的罪魁祸首亚萨王国，不惜一切代价，势要夺取能够重启世界树核心的两把钥匙……</description>
+		<episode_list current_episode="8">
+			<episode href="https://www.bilibili.com/bangumi/play/ep256641">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="90">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="136">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+
+	<!-- 奉捷10条 -->
+	<anime id="B-PROJECT" episode_num="12" update_cycle="weekly" isfinished="false">
+		<name language="Chinese">B-PROJECT～绝顶＊Emotion～</name>
+		<images>
+			<thumbnail size="100">https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529321716.webp</thumbnail>
 			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529321716.webp</preview>
 		</images>
 		<seasons current_season="1"/>
-		<type>类型</type>
-		<description></description>
+		<type>乙女</type>
+		<description>在业界大牌唱片公司“犍陀罗音乐”，以A and R身份就职的主人公·澄空翼。她和所负责的偶像组合“B-PROJECT”的成员们一同，跨越各种麻烦和突发事件，梦寐以求的JAPAN Dream Live也获得大成功！向下一个舞台进发的翼与“KITAKORE”“THRIVE”“MooNs”，与来访的“KiLLER KiNG”相遇。“B-PROJECT”emotional的next stage，现在开幕——！</description>
 		<episode_list current_episode="1">
 			<episode href="https://www.bilibili.com/bangumi/play/ss26277">1</episode>
 		</episode_list>
@@ -337,11 +469,11 @@
 	<anime id="JOJO5" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">JOJO的奇妙冒险 黄金之风</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536255775.webp</thumbnail>
 			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2536255775.webp</preview>
 		</images>
 		<seasons current_season="5"/>
-		<type>类型</type>
+		<type>热血</type>
 		<description>住在意大利那不勒斯的青年乔鲁诺·乔巴拿，是继承了乔斯达家宿敌·DIO之血脉的儿子。 幼年时遭受迫害而自暴自弃的他，由于拯救了一名黑帮男子，而学到了“相信他人”。不忘恩义、带着敬意对待自己的黑帮，让他的心变得率直。就这样，乔鲁诺开始对“黑帮明星”怀有憧憬。15岁的乔鲁诺，与统领意大利黑社会的黑帮组织“热情”一同引发事端，并成为被盯上的目标……</description>
 		<episode_list current_episode="21">
 			<episode href="https://www.bilibili.com/bangumi/play/ss25681">1</episode>
@@ -363,11 +495,11 @@
 	<anime id="nuannuanriji" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">暖暖日记 3rd</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2401832136.webp</thumbnail>
 			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2401832136.webp</preview>
 		</images>
 		<seasons current_season="3"/>
-		<type>类型</type>
+		<type>日常</type>
 		<description>由漫画家五十岚三喜夫创作的人气作品《暖暖日记》是一部光看画风就让人觉得治愈有趣的漫画，主人公是名为暖暖的海獭，故事则在各种无厘头的搞笑间讲述一些哲学道理，这样的设定而引发了很多关注并赢得了好评。</description>
 		<episode_list current_episode="49">
 			<episode href="https://www.bilibili.com/bangumi/play/ss23883">1</episode>
@@ -389,11 +521,11 @@
 	<anime id="nizhuancaipan2" episode_num="24" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">逆转裁判</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527970994.webp</thumbnail>
 			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527970994.webp</preview>
 		</images>
 		<seasons current_season="2"/>
-		<type>类型</type>
+		<type>推理</type>
 		<description>被卷入奇怪事件的委托人们。主人公新人律师成步堂龙一，为了洗清他们的嫌疑挺身而出。 被告人是有罪，还是无罪……。成步堂信任着委托人，与对手的法官们在法庭上展开热烈的战斗。 在被逼入走投无路的危机，似乎万事休矣的瞬间，伴随着“有异议！”这句话，从细微的证据当中，突破矛盾，引发华丽的逆转剧！ 以成步堂的师父、美人律师绫里千寻，助手绫里真宵，对手检察官御剑怜侍为首，众多个性丰富的角色们所带来的，戏剧性的交涉所交织的章节也引人注目！</description>
 		<episode_list current_episode="20">
 			<episode href="https://www.bilibili.com/bangumi/play/ss25740">1</episode>
@@ -415,11 +547,11 @@
 	<anime id="buyukuaideguaiwuanan" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">不愉快的怪物庵</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">http://wx3.sinaimg.cn/large/777d58c0ly1fxfi5qe9nij205006ot94.jpg</thumbnail>
 			<preview>http://wx3.sinaimg.cn/large/777d58c0ly1fxfi5qe9nij205006ot94.jpg</preview>
 		</images>
 		<seasons current_season="2"/>
-		<type>类型</type>
+		<type>奇异</type>
 		<description>所谓的“除妖”，即是把由于某些缘由而从原本应在的“隐世”来到“现世”停留的妖怪们送回“隐世”这一工作。某天，被妖怪附体的高中生·芦屋花绘，依靠偶然发现的联络方式，来到了除妖的店“物怪庵”。在那里的是一脸不高兴的店主·安倍晴斋。由于某些缘故，芦屋就这样以物怪庵奉公人的身份开始工作……。安倍与芦屋的除妖组合和妖怪们的物语就此开幕。</description>
 		<episode_list current_episode="10">
 			<episode href="https://www.bilibili.com/bangumi/play/ss26300">1</episode>
@@ -441,11 +573,11 @@
 	<anime id="huiyejixiangrangwogaobai" episode_num="unknown" update_cycle="weekly" isfinished="false">
 		<name language="Chinese">辉夜大小姐想让我告白~天才们的恋爱头脑战~</name>
 		<images>
-			<thumbnail size="100">https://here_pictures_server_path</thumbnail>
+			<thumbnail size="100">https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542294495.webp</thumbnail>
 			<preview>https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542294495.webp</preview>
 		</images>
 		<seasons current_season="1"/>
-		<type>类型</type>
+		<type>恋爱</type>
 		<description>家庭背景与人品都很棒！！一大群有前途的秀才所聚集的秀知院学园！！在那里的学生会相遇的副会长·四宫辉夜与会长·白银御行原本应该是彼此受到了对方吸引…但想不到都过半年了却仍然什么事情也没发生！！最麻烦的是这两个自尊心超强、无法坦率的家伙，居然开始想着要“设法让对方向自己告白”！？直到恋情有下落之前会很欢乐的故事！！新感觉“斗智”爱情喜剧、就此开战！！</description>
 		<episode_list current_episode="9">
 			<episode href="https://www.bilibili.com/bangumi/play/ss26274">1</episode>
@@ -471,7 +603,7 @@
 			<preview>https://i0.hdslb.com/bfs/bangumi/4d9f43eb3dba572797f8915f8f28efce9e58d756.jpg@450w_600h.webp</preview>
 		</images>
 		<seasons current_season="3"/>
-		<type>类型</type>
+		<type>热血</type>
 		<description>“这里是哪儿”察觉到的时候，桐人不知为什么陷入了庞大的幻想风格虚拟世界。登录前的记忆模糊不清，只得在周围徘徊寻找线索。之后，他同一名少年相遇了。“我的名字是尤吉欧。请多关照，桐人君。”少年是在虚拟世界的居民，即“NPC”，但是却如同人类一样“感情丰富”。在和尤吉欧加深交往的同时，桐人也在摸索着登出这个世界的方法。在桐人的脑海中，某一个记忆苏醒了。那是幼年时的桐人和尤吉欧在山野奔跑的记忆——不可能存在的记忆。</description>
 		<episode_list current_episode="21">
 			<episode href="https://www.bilibili.com/bangumi/play/ss25510">1</episode>
@@ -497,7 +629,7 @@
 			<preview>https://i0.hdslb.com/bfs/bangumi/001e443cccb18ce2e10d2879c04eb4b30facade9.png@450w_600h.webp</preview>
 		</images>
 		<seasons current_season="1"/>
-		<type>类型</type>
+		<type>日常</type>
 		<description>荒城幸也，大概14岁。平常一个人在做DJ。因为受到父母的影响，从小开始就一直在听HouseMusic……也经常上传音乐视频。想要向某人传达些什么。想要受到认同，想要成为必要之人。但很害怕受伤。有什么地方不和谐的日常……某天，为了增加点击数而做的事情，却成了无法挽回的事态。来自“那个世界”的直播。以此为契机，我被人给盯上，被卷入了人们的愿望和心意的漩涡当中。独自一人束手无策的状况……但是，只要有谁和我一起的话。</description>
 		<episode_list current_episode="10">
 			<episode href="https://www.bilibili.com/bangumi/play/ss26301">1</episode>
@@ -523,7 +655,7 @@
 			<preview>https://i0.hdslb.com/bfs/bangumi/c200e369e9cd98a024f0a58f4363935e69cd044b.jpg@450w_600h.webp</preview>
 		</images>
 		<seasons current_season="1"/>
-		<type>类型</type>
+		<type>日常</type>
 		<description>本作是modern pets品牌旗下的设计组脑洞大开，设计出的形形色色怪兽为蓝本制作出的短篇动画，正体不明的怪兽们将在3分钟的时间里大闹特闹，供你寻开心~~</description>
 		<episode_list current_episode="22">
 			<episode href="https://www.bilibili.com/bangumi/play/ss25851">1</episode>
@@ -549,7 +681,7 @@
 			<preview>https://i0.hdslb.com/bfs/bangumi/16eae08b6541d34d0040ecd12783c9d3f88fd063.jpg@450w_600h.webp</preview>
 		</images>
 		<seasons current_season="5"/>
-		<type>类型</type>
+		<type>少女</type>
 		<description>美妙频道是一个无论谁都能简单地开始，谁都能成为偶像的梦想频道。开设自己的频道从而成为偶像是女孩子们共通的梦想。闪闪之丘中学一年级的桃山未来和萌黄绘萌为了对抗学校里面的人气偶像赤城安娜，也开设了自己的频道。同时非常熟悉美妙频道的优等生青叶凛花也加入了团队中，属于三个人的梦想偶像频道开始了 。</description>
 		<episode_list current_episode="48">
 			<episode href="https://www.bilibili.com/bangumi/play/ep200395">1</episode>
