@@ -4,6 +4,9 @@
 <xsl:output method="html"/>
   	<xsl:template match="/">
        	<html>
+	    <head>
+	    <meta name="referrer" content="no-referrer" />
+	    </head>
             <body style="padding: 3%;">
                 <div style="
                 display: -webkit-flex;
