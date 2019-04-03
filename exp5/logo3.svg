@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="200" height="150"
+    viewBox="-1 -1 40 30">
+    <defs>
+        <rect id="roundedLine" x="0" y="0" rx="5" ry="5" width="40" height="30" fill="none" stroke="#2d2d2f" stroke-width="5" stroke-linecap="round" stroke-dashoffset="-40" stroke-dasharray="43,200"/>
+	</defs>
+    <g>
+        <polygon points="35 0, 35 25, 10 25" fill="#3A8074"/>
+        <line x1="30" x2="14" y1="2" y2="20" stroke="#3AAF74" stroke-width="5" stroke-linecap="round"/>
+        <use x="-5" y="-5" xlink:href="#roundedLine"/>
+        <use x="0" y="-6" transform="rotate(180 21 13)" xlink:href="#roundedLine"/>
+    </g>
+</svg>
