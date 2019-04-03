@@ -5,7 +5,7 @@
   	<xsl:template match="/">
        	<html>
             <body>
-				<div style="text-align:center;"><img src="../assets/img/logo.png" alt="logo"/></div>
+				<div style="text-align:center;"><img src="../assets/img/exp5/logo1.svg" alt="logo"/></div>
 				<div style="
 				display: -webkit-flex;
                 display: flex;
