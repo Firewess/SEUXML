@@ -675,7 +675,7 @@
 	<anime id="overlord" episode_num="13" update_cycle="weekly" isfinished="true">
 		<name language="Chinese">OVERLORD</name>
 		<images>
-			<thumbnail size="100"https://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg@450w_600h.webp</thumbnail>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg@450w_600h.webp</thumbnail>
 			<preview>https://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg@450w_600h.webp</preview>
 		</images>
 		<seasons current_season="1"/>
