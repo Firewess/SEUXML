@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="all_display_XSL.xsl"?>
+<animeList>	
+    <anime id="qcztsnbhmdtnlxj" episode_num="13" update_cycle="weekly" isfinished="true">
+		<name language="Chinese">青春猪头少年不会梦到兔女郎学姐</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/1cc333ff578e5ea9fded7e454953a4e2291440c2.png@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/1cc333ff578e5ea9fded7e454953a4e2291440c2.png@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>恋爱</type>
+		<description>青春期症候群——这是一种只发生在易敏感和不稳定的青春期的、不可思议的现象。例如，在梓川咲太面前出现的野生兔女郎。她的真实身份是高中高年级学生，明星活动休止的女演员樱岛麻衣。她迷人的身姿，不知为何在周围的人眼里看不出来。咲太决定解开这一谜题。在于麻衣一起度过的时间里，咲太知道了她秘密的想法……女主人公们一个接一个地出现在咲太的周围，她们都有着“青春期症候群”。在天空和大海都很闪耀的小镇上，开始了令人激动的故事。</description>
+		<episode_list current_episode="13">
+			<episode href="https://www.bilibili.com/bangumi/play/ep251076">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="15">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="68">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="148">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="anglesofdeath" episode_num="16" update_cycle="weekly" isfinished="true">
+		<name language="Chinese">Angels of Death</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>恋爱</type>
+		<description>在一栋大楼最底层甦醒的13岁少女，瑞吉儿·加德纳(レイチェル・ガードナー)，她没有任何记忆，不知道自己为何在这里，而为了回到地面，她开始试着逃出去，但是突然在她面前出现了脸上缠满绷带、拿着有如死神般的镰刀的杀人鬼。“拜托你，杀了我。”“帮我一起从这里出去吧。那样的话，我就会杀了你。”两人之间的奇妙羁绊，随着那“荒诞的约定”而逐渐加深。这里究竟是什么地方？两人为何被囚禁于此？等待着两人的命运又是如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终是否能够坚守约定，并且安全地逃出这栋大楼呢？</description>
+		<episode_list current_episode="16">
+			<episode href="https://www.bilibili.com/bangumi/play/ep232407">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="overlord3" episode_num="13" update_cycle="weekly" isfinished="true">
+		<name language="Chinese">OVERLORD Ⅲ</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/b308ed7b60b8f7ff70f8a122adeb75914702611f.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/b308ed7b60b8f7ff70f8a122adeb75914702611f.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="3"/>
+		<type>装逼</type>
+		<description>时间为2138年。曾卷起一大风潮的虚拟现实体感型网络游戏《YGGDRASIL》即将迎来停服。玩家飞鼠在曾经以同伴和荣华自傲的根据地纳萨力克地下大坟墓，独自一人安静等待着那一刻。但是，不料发生了“过了结束时间却还没有登出”的异常事态。NPC们开始以自己的意志行动，不止如此，纳萨力克之外展开了从未见过的异世界。飞鼠为了寻找过去的同伴，以公会名安兹·乌尔·恭自称，决定在异世界扬名立万。他与宣誓绝对忠诚的部下一同，向新的地域进军。</description>
+		<episode_list current_episode="13">
+			<episode href="https://www.bilibili.com/bangumi/play/ep232532">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="overlord2" episode_num="13" update_cycle="weekly" isfinished="true">
+		<name language="Chinese">OVERLORDⅡ</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/851f979c8ebcc7583a43abd4b786c4e2e66b746b.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/851f979c8ebcc7583a43abd4b786c4e2e66b746b.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="2"/>
+		<type>战斗</type>
+		<description>时为2138年。曾卷起一大风潮的虚拟现实体感型网络游戏《YGGDRASIL》即将迎来停服。玩家飞鼠在曾经以同伴和荣华自傲的根据地纳萨力克地下大坟墓，独自一人安静等待着那一刻。但是，不料发生了结束时间已过却没有登出的异常事态。NPC们以自己的意志行动，不止如此，纳萨力克之外展开了从未见过的异世界。飞鼠为了寻找过去的同伴，以公会名安兹·乌尔·恭自称，决定在异世界扬名立万。他与宣誓绝对忠诚的部下一同，向新的地域进军。将世界收于掌中的死之支配者，于此再临！</description>
+		<episode_list current_episode="13">
+			<episode href="https://www.bilibili.com/bangumi/play/ep173248">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+	<anime id="overlord" episode_num="13" update_cycle="weekly" isfinished="true">
+		<name language="Chinese">OVERLORD</name>
+		<images>
+			<thumbnail size="100">https://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg@450w_600h.webp</thumbnail>
+			<preview>https://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg@450w_600h.webp</preview>
+		</images>
+		<seasons current_season="1"/>
+		<type>战斗</type>
+		<description>作品主要讲述了某天，一款曾经掀起过大热潮的VRMMORPG「YGGDRASIL」停止了运营。游戏原本会停止一切服务，但过了结束时间后，玩家们却发现不能退出，NPC也产生了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员一起意外穿越到了异世界，并且变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开了帷幕。</description>
+		<episode_list current_episode="13">
+			<episode href="https://www.bilibili.com/bangumi/play/ep63853">1</episode>
+		</episode_list>
+		<price_list>
+			<platform platform_name="bilibili">
+				<price currency="CNY" period="monthly" estimated_cost="0">
+					15
+				</price>
+				<price currency="CNY" period="quarterly" estimated_cost="0">
+					68
+				</price>
+				<price currency="CNY" period="annually" estimated_cost="0">
+					148
+				</price>
+			</platform>
+		</price_list>
+	</anime>
+</animeList>
